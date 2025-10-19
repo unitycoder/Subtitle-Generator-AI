@@ -1,5 +1,6 @@
-openai-whisper==20240930
+openai-whisper==20250625
 srt==3.5.3
-imageio-ffmpeg==0.4.9
+imageio-ffmpeg==0.6.0
 numpy>=1.24.3
-torch>=2.0.0 
+torch>=2.0.0
+pillow==12.0.0
